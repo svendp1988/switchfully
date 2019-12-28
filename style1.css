@@ -108,7 +108,9 @@ div p {
 a {
     color: black;
 }
-
+main {
+    min-height: 750px;
+}
 footer {
     clear: both;
     width: 100vw;

@@ -51,7 +51,9 @@ article p {
     margin: 0;
 }
 
-
+main {
+    min-height: 750px;
+}
 
 footer {
     clear: both;
