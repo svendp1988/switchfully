@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sven De Potter</title>
+    <link rel="stylesheet" href="style1.css" type="text/css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Barlow&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header id="top">SVEN DE POTTER</header>
+
+<main>
+    <img src="me&her_pic.jpg" alt="me and the misses" id="big">
+    <section>
+        <header>
+            <h1>Who am I?</h1>
+            <p>I'm 31 years old and got married my beautiful wife Kim in April. Together we have a lovely daughter Eloise,
+            age three and a half. My hobby used to be cycling, but at the moment I'm short on time because I'm attending
+                Switch2IT @ PXL.</p>
+        </header>
+        <article>
+            <h3>Work experience</h3>
+            <h4>2019</h4>
+            <p>Started attending Switch2IT to become a software developer</p>
+            <h4>2013 - present</h4>
+            <p>MFC Sint-Ferdinand as pedagogue</p>
+            <h4>2011 - 2013</h4>
+            <p>VZW Basis as social worker</p>
+        </article>
+        <h3>Fields of interest</h3>
+        <ol>
+            <li><strong><span>Cycling</span></strong> I do it myself and love watching the big flemish classic races.</li>
+            <li><strong><span>Programming</span></strong> Though i have little experience yet, I have really been bitten and very eager to learn more.</li>
+            <li><strong><span>Self driving cars</span></strong> While just some time ago, it all seemed like a distant dream, nowadays everything seems just a few well programmed attempts away.</li>
+            <li><strong><span>Virtual Reality</span></strong> Not only popular in the gaming community, but even in aviation this is being used to train pilots. The possibilies in the future will be endless.</li>
+        </ol>
+    </section>
+    <section id="right">
+        <img src="me&her_pic.jpg" alt="me and the misses" id="small">
+        <h3 id="hidden">For those interested</h3>
+        <a href="self_driving_cars.html"><div>
+            <img src="self-driving-cars-reality-main-1440x1096.jpg" alt="Self driving cars">
+            <p>Self driving cars</p>
+        </div></a>
+        <a href="virtual_reality.html"><div>
+            <img src="VR.jpg" alt="VR">
+            <p>Virtual Reality</p>
+        </div></a>
+    </section>
+</main>
+<footer>
+    <p>Thanks for visiting, looking forward to meeting all of you in February</p>
+</footer>
+</body>
+</html>
