@@ -58,6 +58,7 @@ footer {
     color: lightgrey;
     position: sticky;
     bottom: 0;
+    margin-top: -75px;
 }
 
 footer p {
