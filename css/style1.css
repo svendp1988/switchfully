@@ -162,8 +162,13 @@ main {
         float: none;
         width: 100vw;
     }
-
+}
+@media screen and (max-width: 465px){
     footer {
-        height: 100px;
+        height: 60px;
+    }
+    footer p {
+        position: relative;
+        top: -10px;
     }
 }
