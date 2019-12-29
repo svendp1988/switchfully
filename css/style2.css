@@ -117,3 +117,9 @@ main {
     }
 }
 
+@media screen and (max-width: 960px){
+    footer {
+        height: 100px;
+    }
+}
+
